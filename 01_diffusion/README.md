@@ -12,6 +12,10 @@ This module covers **diffusion models** in both **continuous** and **discrete** 
 
 <img src="static/example_reconstrution_unet_sneakers.png" alt="DDPM Sneakers reconstruction" width="600">
 
+### D3PM (MNIST) — unconditional samples
+
+<img src="static/example_generation_unet_d3pm.png" alt="D3PM MNIST samples" width="400">
+
 ## Notebooks
 
 - **`DDPM_MNIST.ipynb`**: train a **continuous DDPM** on **MNIST** (forward noising, reverse denoising, sampling, and visualizations; includes linear + cosine noise schedules).
