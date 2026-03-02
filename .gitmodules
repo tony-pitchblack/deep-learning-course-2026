@@ -1,0 +1,3 @@
+[submodule "d3pm"]
+	path = 01_diffusion/modules/d3pm
+	url = git@github.com:cloneofsimo/d3pm.git
